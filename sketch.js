@@ -251,8 +251,8 @@ function draw() {
           textSize(20);
           text("Messages : Food Stock is empty.",180,170);
           text("You can no longer feed your pet. 😢😢",180,195);
-          text("(Press 'Help' to know how to get",180,220);
-          text("more money in your account)",180,245);
+          text("(Press 'Help' to know how to buy",180,220);
+          text("milk bottles)",180,245);
         }
       }
       else {
